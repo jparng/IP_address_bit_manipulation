@@ -1,0 +1,3 @@
+﻿  Union.cpp
+C:\Users\Jerry Parng\Documents\Coding Stuff\Computer Organization\Union\Union.cpp(64,23): warning C4101: 'bitNum': unreferenced local variable
+  Union.vcxproj -> C:\Users\Jerry Parng\Documents\Coding Stuff\Computer Organization\Union\x64\Debug\Union.exe
